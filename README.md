@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sidhdhika Banu
+- 👀 I’m interested in web development, UI/UX design, project management, and mobile app development.
+- 🌱 I’m currently learning the MERN stack and have developed websites using JavaScript and React.
+- 💞️ I’m looking to collaborate on projects related to web development, mobile development, and full-stack development.
+- 📫 How to reach me: sidhdhikabanu28@gmail.com
+- 
