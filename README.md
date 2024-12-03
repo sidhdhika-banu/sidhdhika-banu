@@ -14,7 +14,7 @@ Welcome to my personal details repository. Here's a brief introduction about me:
 ## 📫 How to Reach Me
 **Email**: [sidhdhikabanu28@gmail.com](mailto:sidhdhikabanu28@gmail.com)  
 **Portfolio**: [My Portfolio](https://hanan-haseem.github.io/Portfolio/)   
-**LinkedIn**: [Sidhdhika Banu](www.linkedin.com/in/sidhdhika-banu-869597321)
+**LinkedIn**: [Sidhdhika Banu](www.linkedin.com/in/sidhdhika-banu-869597321) 
 **GitHub**: [sidhdhika-banu](https://github.com/sidhdhika-banu)
 
 ## 🌱 Interests
