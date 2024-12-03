@@ -19,8 +19,7 @@ Welcome to my personal details repository. Here's a brief introduction about me:
 
 ## 📫 How to Reach Me
 - Email: [sidhdhikabanu28@gmail.com]  
-- LinkedIn: [www.linkedin.com/in/
-sidhdhika-banu-869597321]  
+- LinkedIn: [www.linkedin.com/in/sidhdhika-banu-869597321]  
 - GitHub: [https://github.com/sidhdhika-banu]  
 
 Feel free to explore my other repositories and connect with me to collaborate on exciting projects! 🚀
