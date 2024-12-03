@@ -1,4 +1,4 @@
--  Personal Details Repository
+## Personal Details Repository
 
 Hi there! 👋  
 Welcome to my personal details repository. Here's a brief introduction about me:
