@@ -12,9 +12,10 @@ Welcome to my personal details repository. Here's a brief introduction about me:
   - **University:** University of Sri Jayewardenepura  
 
 ## 📫 How to Reach Me
-- Email: [sidhdhikabanu28@gmail.com]  
-- LinkedIn: [www.linkedin.com/in/sidhdhika-banu-869597321]  
-- GitHub: [https://github.com/sidhdhika-banu]
+**Email**: [sidhdhikabanu28@gmail.com](mailto:sidhdhikabanu28@gmail.com)  
+**Portfolio**: [My Portfolio](https://hanan-haseem.github.io/Portfolio/)   
+**LinkedIn**: [Sidhdhika Banu](www.linkedin.com/in/sidhdhika-banu-869597321)
+**GitHub**: [sidhdhika-banu](https://github.com/sidhdhika-banu)
 
 ## 🌱 Interests
 - Software Development  
@@ -32,6 +33,8 @@ Welcome to my personal details repository. Here's a brief introduction about me:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhdhika-banu&layout=compact&theme=radical)
 
-Feel free to explore my other repositories and connect with me to collaborate on exciting projects! 🚀
+### 🎉 Fun Fact  
+Struggling with code and finally finding the solution is the best part of the coding journey—it’s like a mini victory every time! 🏆💻  
+
 
 ---
